@@ -13,5 +13,15 @@
         "id": 2,
         "image": "https://d316acfc88wber.cloudfront.net/global/phones/spark8T/SPARK8T-blue.png",
         "title": "Lenovo"
+    },
+    {
+        "id": 3,
+        "image": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Image.png",
+        "title": "IPhone"
+    },
+    {
+        "id": 4,
+        "image": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Image.png",
+        "title": "IPhone"
     }
 ]
