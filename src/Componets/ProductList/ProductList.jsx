@@ -3,7 +3,9 @@ import product from '../../api/Product.json'
 import BeforeButton from '../cartButtons/BeforeButton'
 import AfterButton from '../cartButtons/AfterButton'
 import './ProductList.css'
+// import { useSelector } from 'react-redux';
 const ProductList = () => {
+  // const cart=useSelector((state)=>state.cart)
     const [count,setCount]=useState(0)
     const addTocart=()=>{
         setCount(1)
